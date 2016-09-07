@@ -13,6 +13,7 @@
   [x] - class that makes it viewable
   [x] - hidden by default
 [] - handle the click on the single image view
+  [x] - setup handler
   [] - adds class to make modal viewable
   [] - injects the image source
   [] - injects the image alt tag
