@@ -17,6 +17,13 @@
   [x] - adds class to make modal viewable
   [x] - injects the image source
   [x] - injects the image alt tag
+[] - album structure
+  [x] - create data model for albums/photos
+  [] - list of photo thumbnnails (100x100)
+[] - clicking album name updates photos visible in list
+  [] - setup click handler on album names
+  [] - get currently clicked album name
+  [] - use said album name to re-render from data
 
 ## Development
   - `$ npm install webpack -g`
