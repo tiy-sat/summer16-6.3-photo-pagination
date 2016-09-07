@@ -21,3 +21,14 @@
   - `$ npm install babel-cli -g`
   - `$ npm install webpack-dev-server -g`
   - `$ npm install`
+
+## TIL
+- Why to separate files (modularize)
+  1. Single view rule - if your code cannot be viewed in your code editor
+      "above the fold"
+  2. Error handling is more explicit (less code)
+  3. Team oriented work... less hands in the same file, less merge conflicts
+  4. Designing meaning of specific files: explicit purpose
+  5. Time to learn: easier to on board from not knowing wtf is happening
+  6. Grouping like things. "Single Responsibility Rule"
+  7. Refactors are far easier.
