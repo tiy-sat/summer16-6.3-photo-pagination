@@ -8,10 +8,10 @@
   [x] - class
 [] - modal element view
   [x] - set up file for modal
-  [x] - looks like a modal (full size, opaque background color to see content)
-  [] - hidden by default
+  [x] - looks like a modal (full size, opaque background color to see content
+  [x] - has a full width/height image in center
   [] - class that makes it viewable
-  [] - has a full width/height image in center
+  [] - hidden by default
 [] - handle the click on the single image view
   [] - adds class to make modal viewable
   [] - injects the image source

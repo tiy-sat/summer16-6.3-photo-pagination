@@ -13,4 +13,9 @@
   right: 0;
   bottom: 0;
   left: 0;
+  text-align: center;
+}
+
+.modal__image {
+  height: 100%;
 }
