@@ -12,11 +12,11 @@
   [x] - has a full width/height image in center
   [x] - class that makes it viewable
   [x] - hidden by default
-[] - handle the click on the single image view
+[x] - handle the click on the single image view
   [x] - setup handler
   [x] - adds class to make modal viewable
-  [] - injects the image source
-  [] - injects the image alt tag
+  [x] - injects the image source
+  [x] - injects the image alt tag
 
 ## Development
   - `$ npm install webpack -g`
