@@ -17,11 +17,11 @@
   [x] - adds class to make modal viewable
   [x] - injects the image source
   [x] - injects the image alt tag
-[] - album structure
+[x] - album structure
   [x] - create data model for albums/photos
   [x] - list of photo thumbnails (100x100)
-  [] - names of albums
-  [] - heading referencing current album displayed
+  [x] - names of albums
+  [x] - heading referencing current album displayed
 [] - clicking album name updates photos visible in list
   [] - setup click handler on album names
   [] - get currently clicked album name
