@@ -2,6 +2,14 @@
   Main Stylesheet
 */
 
+/*
+  IMAGE ELEMENTS
+*/
+
+.image {
+  width: 200px;
+  height: 200px;
+}
 
 /*
   MODAL ELEMENT

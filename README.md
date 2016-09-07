@@ -19,7 +19,9 @@
   [x] - injects the image alt tag
 [] - album structure
   [x] - create data model for albums/photos
-  [] - list of photo thumbnnails (100x100)
+  [x] - list of photo thumbnails (100x100)
+  [] - names of albums
+  [] - heading referencing current album displayed
 [] - clicking album name updates photos visible in list
   [] - setup click handler on album names
   [] - get currently clicked album name
