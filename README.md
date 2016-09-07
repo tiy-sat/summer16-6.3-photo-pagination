@@ -8,6 +8,7 @@
   [x] - class
 [] - modal element view
   [x] - set up file for modal
+  [x] - looks like a modal (full size, opaque background color to see content)
   [] - hidden by default
   [] - class that makes it viewable
   [] - has a full width/height image in center
