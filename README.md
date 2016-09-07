@@ -6,12 +6,12 @@
   [x] - src
   [x] - alt
   [x] - class
-[] - modal element view
+[x] - modal element view
   [x] - set up file for modal
   [x] - looks like a modal (full size, opaque background color to see content
   [x] - has a full width/height image in center
-  [] - class that makes it viewable
-  [] - hidden by default
+  [x] - class that makes it viewable
+  [x] - hidden by default
 [] - handle the click on the single image view
   [] - adds class to make modal viewable
   [] - injects the image source
