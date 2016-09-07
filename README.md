@@ -1,6 +1,6 @@
 # 6.1 Review Modal
 
-## Requirments
+## Dev todo list
 [x] - bring in boilerplate
 [x] - make a view that has a single image
   [x] - src
