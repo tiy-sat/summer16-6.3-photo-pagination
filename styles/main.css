@@ -32,3 +32,8 @@
 .modal__image {
   height: 100%;
 }
+
+.modal__arrow {
+  font-size: 3rem;
+  text-transform: uppercase;
+}

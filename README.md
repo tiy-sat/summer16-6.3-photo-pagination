@@ -22,10 +22,16 @@
   [x] - list of photo thumbnails (100x100)
   [x] - names of albums
   [x] - heading referencing current album displayed
-[] - clicking album name updates photos visible in list
+[x] - clicking album name updates photos visible in list
   [x] - setup click handler on album names
   [x] - get currently clicked album name
   [x] - use said album name to re-render from data
+[] - when modal open paginate between photos in album with left/right arrows
+  [x] - have left and right arrows in structure
+  [x] - position left and right arrows accordingly
+  [] - pass prop reference to child of current album data
+  [] - set initial state to track current photo index with modal component
+  [] - handle click for both arrows to increment or decrement
 
 ## Development
   - `$ npm install webpack -g`
