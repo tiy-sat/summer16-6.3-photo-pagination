@@ -33,7 +33,7 @@
   [x] - set initial state to track current photo index with modal component
   [x] - use index number from state to set src/alt based on current photo
   [x] - handle click for both arrows to increment or decrement
-  [] - do not decrement past 0 or increment past length
+  [x] - do not decrement past 0 or increment past length
 [] - pass reference of index number to modal component for thumbnail click
 
 ## Development
