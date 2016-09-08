@@ -29,7 +29,7 @@
 [] - when modal open paginate between photos in album with left/right arrows
   [x] - have left and right arrows in structure
   [x] - position left and right arrows accordingly
-  [] - pass prop reference to child of current album data
+  [x] - pass prop reference to child of current album data
   [] - set initial state to track current photo index with modal component
   [] - handle click for both arrows to increment or decrement
 
