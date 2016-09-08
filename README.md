@@ -23,9 +23,9 @@
   [x] - names of albums
   [x] - heading referencing current album displayed
 [] - clicking album name updates photos visible in list
-  [] - setup click handler on album names
-  [] - get currently clicked album name
-  [] - use said album name to re-render from data
+  [x] - setup click handler on album names
+  [x] - get currently clicked album name
+  [x] - use said album name to re-render from data
 
 ## Development
   - `$ npm install webpack -g`
