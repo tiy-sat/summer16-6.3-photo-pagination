@@ -30,8 +30,10 @@
   [x] - have left and right arrows in structure
   [x] - position left and right arrows accordingly
   [x] - pass prop reference to child of current album data
-  [] - set initial state to track current photo index with modal component
+  [x] - set initial state to track current photo index with modal component
+  [x] - use index number from state to set src/alt based on current photo
   [] - handle click for both arrows to increment or decrement
+[] - pass reference of index number to modal component for thumbnail click
 
 ## Development
   - `$ npm install webpack -g`
